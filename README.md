@@ -1,5 +1,7 @@
 # Academic OS — Dashboard académique (Next.js)
 
+[![CI](https://github.com/knziin/academic-os-web/actions/workflows/ci.yml/badge.svg)](https://github.com/knziin/academic-os-web/actions/workflows/ci.yml)
+
 Clone moderne d'"Academic OS" : gestion de tâches, matières et moyennes pour le BUT Informatique. React (Next.js App Router) + Tailwind CSS + composants façon shadcn/ui + Framer Motion, avec persistance **localStorage**.
 
 ## 🚀 Démarrage
